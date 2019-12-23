@@ -7,7 +7,10 @@ So, i decided to build my own 6 port web based ITB equalizator with dataloger op
 
 # Materials
 6x Map sensors (in this case, i used 6 MPXHZ6400 that i have available)
+
 1x ESP32 WROOM 30 pin evaluation board
+
 1x USB power bank
+
 1x wifi connection (a cell phone acting as a hotspot is enough)
 
